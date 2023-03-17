@@ -1,0 +1,43 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "K1109_Android_kot_Class_Ex"
+include ':app'
+include ':mytest1'
+include ':mytest1:test3'
+include ':mytest1:test3_2'
+include ':mytest1:test6_6'
+include ':test6-2'
+include ':test7-2'
+include ':test7-3'
+include ':test8-2'
+include ':ch8_exercise'
+include ':test9'
+include ':ch9_resource'
+include ':test10'
+include ':test11'
+include ':ch11_jetpack'
+include ':ch12_material'
+include ':test12'
+include ':test13'
+include ':ch13_test_intent_data'
+include ':test16'
+include ':ch13_activity'
+include ':ch16_provider'
+include ':ch16_provider_test'
+include ':ch16_provider_test2'
+include ':ch17_database'
+include ':test17'
+include ':test17'
+include ':ch17_database_test'

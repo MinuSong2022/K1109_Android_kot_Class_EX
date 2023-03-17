@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/Documents/gradle-7.4.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ch11_jetpack" />
+            <option value="$PROJECT_DIR$/ch12_material" />
+            <option value="$PROJECT_DIR$/ch13_activity" />
+            <option value="$PROJECT_DIR$/ch13_test_intent_data" />
+            <option value="$PROJECT_DIR$/ch16_provider" />
+            <option value="$PROJECT_DIR$/ch16_provider_test" />
+            <option value="$PROJECT_DIR$/ch16_provider_test2" />
+            <option value="$PROJECT_DIR$/ch17_database" />
+            <option value="$PROJECT_DIR$/ch17_database_test" />
+            <option value="$PROJECT_DIR$/ch8_exercise" />
+            <option value="$PROJECT_DIR$/ch9_resource" />
+            <option value="$PROJECT_DIR$/mytest1" />
+            <option value="$PROJECT_DIR$/mytest1/test3" />
+            <option value="$PROJECT_DIR$/mytest1/test3_2" />
+            <option value="$PROJECT_DIR$/mytest1/test6_6" />
+            <option value="$PROJECT_DIR$/test10" />
+            <option value="$PROJECT_DIR$/test11" />
+            <option value="$PROJECT_DIR$/test12" />
+            <option value="$PROJECT_DIR$/test13" />
+            <option value="$PROJECT_DIR$/test16" />
+            <option value="$PROJECT_DIR$/test17" />
+            <option value="$PROJECT_DIR$/test6-2" />
+            <option value="$PROJECT_DIR$/test7-2" />
+            <option value="$PROJECT_DIR$/test7-3" />
+            <option value="$PROJECT_DIR$/test8-2" />
+            <option value="$PROJECT_DIR$/test9" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
